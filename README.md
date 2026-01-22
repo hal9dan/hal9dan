@@ -1,10 +1,30 @@
-# 💫 About Me:
- holds a bachelor's degree in Engineering Mechanics from Nanjing University of Aeronautics and Astronautics and is currently pursuing an MASc in Mechanical Engineering at the University of British Columbia. <br>He is passionate about computer vision, industrial automation, and the emerging world of vibe coding. He excels at turning theoretical quantitative problems into practical, automated solutions. <br>In his spare time, he explores the outdoors through hiking and photography.
+## Hi there, I'm Chenxi Lyu 👋
 
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=MASc+in+Mechanical+Engineering;University+of+British+Columbia+(UBC);Quantitative+Developer)](https://github.com/hal9dan)
+
+</div>
+
+## About Me
+
+⚙️ Currently pursuing an MASc in **Mechanical Engineering** at the University of British Columbia (UBC). I work as a Research Assistant focusing on Machine Learning, Gas Metal Arc Welding (GMAW), and Industrial Automation.
+
+🎓 B.Sc. Degree in Engineering Mechanics at Nanjing University of Aeronautics and Astronautics (NUAA) in China. Exchange student at the University of Edinburgh; previously a Research Assistant (6 months) at the Southern University of Science and Technology.
+
+⚡ **What I work on:** 
+- 🤖 **Deep Learning:** ML models for real-world industrial applications.
+- 📷 **Computer Vision:** GMAW high-speed camera analysis & particle tracking.
+- ⚙️ **Engineering:** Structral Design, Signal analysis & Finite Element Analysis (FEA).
+- 🖥️ **Dev:** GUI application development (Qt/OpenGL) and Streamlit frontends.
+
+## 🛠️ Programming Languages & Tools 
+<p align="center"> 
+<a href="https://github.com/hal9dan" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,matlab,pytorch,pandas,numpy,matplotlib,fastapi,docker,mysql,redis,linux,git,qt&perline=14" /> </a>
+</p>
+
+## ⚙️ Engineering & Simulation Stack:
+**SolidWorks, Ansys, Abaqus, Simulink, ROS, Simufact Welding, Arduino**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chenxi Lyu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hal9dan2@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chenxi-Lyu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hal9dan2@gmail.com)
