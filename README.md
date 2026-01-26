@@ -28,4 +28,4 @@ An aspiring **end-to-end engineer** bridging *mechanics, electronics, software, 
 **SolidWorks, Ansys, Abaqus, MATLAB, Simulink, ROS, Simufact Welding, Arduino**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chenxi-Lyu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hal9dan2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chenxi-lyu-119946345/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hal9dan2@gmail.com)
